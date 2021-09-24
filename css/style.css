@@ -1,0 +1,21 @@
+.aboutnav {
+	background: #027371;
+}
+.aboutspan{
+	color: #027371;
+}
+/*.submitbutton{
+	background: #027371;
+}*/
+.Feelfree{
+	color: #027371;
+}
+.fsubmit{
+	background: #027371 !important;
+}
+.fsubmit:hover {
+	background: #258582 !important;
+}
+.c-info{
+	box-shadow: 0 2px 5px rgba(0,0,0,.2);
+}
